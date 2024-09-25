@@ -1,0 +1,12 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0px;
+    font-size: Roboto;
+}
+
+.list-items{
+    text-decoration: none;
+    color: darkslategrey;
+}
